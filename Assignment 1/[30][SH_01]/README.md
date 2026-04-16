@@ -31,7 +31,7 @@ The following commands are handled via dedicated functions within the code:
 ## File Structure
 * `shell.c`: The main C source code containing command logic and the execution loop.
 * `run.sh`: A bash script to automate compilation and execution.
-* `README.md`: Project documentation.
+* `README.md`: Assignment Task documentation.
 
 ## How to Compile and Run
 
