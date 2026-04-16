@@ -1,6 +1,6 @@
 # Custom Shell Implementation [SH_01]
 
-## Student Information
+## Assignment Information
 - **Course:** Operating Systems Lab
 - **Assignment:** Building a Custom Shell with Basic Commands
 
